@@ -15,6 +15,7 @@ public class Runner {
 
         CompareCoin ca = new CompareCoin();
         ca.compareDiameter(ob1, ob2);
+        System.out.println("Привет, Денис");
 
     }
 }
